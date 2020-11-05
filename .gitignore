@@ -1,0 +1,10 @@
+/target/
+/travel-automation.iml
+/targe/
+.settings
+.project
+.classpath
+.metadata/
+*.log
+/.idea
+*.iml
